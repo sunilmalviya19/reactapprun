@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactapprun/static/css/main.837ca212.chunk.css",
+    "main.js": "/reactapprun/static/js/main.9b1e84b3.chunk.js",
+    "main.js.map": "/reactapprun/static/js/main.9b1e84b3.chunk.js.map",
+    "runtime-main.js": "/reactapprun/static/js/runtime-main.b9a29ac6.js",
+    "runtime-main.js.map": "/reactapprun/static/js/runtime-main.b9a29ac6.js.map",
+    "static/js/2.8cae20b7.chunk.js": "/reactapprun/static/js/2.8cae20b7.chunk.js",
+    "static/js/2.8cae20b7.chunk.js.map": "/reactapprun/static/js/2.8cae20b7.chunk.js.map",
+    "index.html": "/reactapprun/index.html",
+    "precache-manifest.09df8cd3c8b25806fb1b6d135ceda00a.js": "/reactapprun/precache-manifest.09df8cd3c8b25806fb1b6d135ceda00a.js",
+    "service-worker.js": "/reactapprun/service-worker.js",
+    "static/css/main.837ca212.chunk.css.map": "/reactapprun/static/css/main.837ca212.chunk.css.map",
+    "static/js/2.8cae20b7.chunk.js.LICENSE": "/reactapprun/static/js/2.8cae20b7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9a29ac6.js",
+    "static/js/2.8cae20b7.chunk.js",
+    "static/css/main.837ca212.chunk.css",
+    "static/js/main.9b1e84b3.chunk.js"
+  ]
+}
